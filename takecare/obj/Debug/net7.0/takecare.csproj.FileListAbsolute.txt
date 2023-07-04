@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\good\takecare\bin\Debug\net7.0\takecare.exe
+C:\Users\pc\Desktop\good\takecare\bin\Debug\net7.0\takecare.deps.json
+C:\Users\pc\Desktop\good\takecare\bin\Debug\net7.0\takecare.runtimeconfig.json
+C:\Users\pc\Desktop\good\takecare\bin\Debug\net7.0\takecare.dll
+C:\Users\pc\Desktop\good\takecare\bin\Debug\net7.0\takecare.pdb
+C:\Users\pc\Desktop\good\takecare\obj\Debug\net7.0\takecare.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\good\takecare\obj\Debug\net7.0\takecare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\good\takecare\obj\Debug\net7.0\takecare.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\good\takecare\obj\Debug\net7.0\takecare.AssemblyInfo.cs
+C:\Users\pc\Desktop\good\takecare\obj\Debug\net7.0\takecare.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\good\takecare\obj\Debug\net7.0\takecare.dll
+C:\Users\pc\Desktop\good\takecare\obj\Debug\net7.0\refint\takecare.dll
+C:\Users\pc\Desktop\good\takecare\obj\Debug\net7.0\takecare.pdb
+C:\Users\pc\Desktop\good\takecare\obj\Debug\net7.0\takecare.genruntimeconfig.cache
+C:\Users\pc\Desktop\good\takecare\obj\Debug\net7.0\ref\takecare.dll
