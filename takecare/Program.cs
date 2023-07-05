@@ -1,5 +1,8 @@
-﻿internal class Program
+﻿
+internal class Program
 {
+
+  
     public static List<havana> babu =new List<havana>();
     private static void Main(string[] args)
     {
@@ -11,6 +14,7 @@
         havana xol = new havana();
         Console.WriteLine("Enter Name?");
         xol.Name = Console.ReadLine();
+       
         Console.WriteLine("Enter Age");
         xol.Age = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Enter Email");
